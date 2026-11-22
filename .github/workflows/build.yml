@@ -5,6 +5,7 @@ on:
 
 env:
   DOTNET_VERSION: 10.0.x
+  PROJECT_PATH: ./lab4/lab4.csproject
 
 jobs:
   build:
